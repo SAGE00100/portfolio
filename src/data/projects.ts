@@ -43,7 +43,7 @@ keyFeatures: [
   "Image upload for member profiles",
   "Responsive design for all devices"
 ],
-    preview: "gym-mgmt-system.vercel.app",
+    preview: "https://gym-mgmt-system.vercel.app",
     sourceCode: "https://github.com/SAGE00100/proj2/tree/main/proj1",
   },
   {
